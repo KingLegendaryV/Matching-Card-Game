@@ -2,6 +2,8 @@ Project: Matching ard Game
 This is a project that uses javascript to create a classic Matching Card Game.  All credit to the images goes to the good artists at deviant art and the idea comes from my coding sensei Leon Noel.  The actual name of the game is The Elemental Match (I know the name is perfect). So lets get deeper into 
 
 ---The Elemental Match---
+
+
 <img width="143" alt="elemental logo" src="https://user-images.githubusercontent.com/77629775/113498525-ae6c1680-94db-11eb-9547-395e3122022e.png">
 
  -HTML, CSS, JavaScript-
