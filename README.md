@@ -10,6 +10,7 @@ This is a project that uses javascript to create a classic Matching Card Game.  
 <img width="143" alt="elemental logo" src="https://user-images.githubusercontent.com/77629775/113498525-ae6c1680-94db-11eb-9547-395e3122022e.png">
 
 `I USED`
+
 `-HTML, CSS, JavaScript-`
  
 
